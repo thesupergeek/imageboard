@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/imageboard.iml" filepath="$PROJECT_DIR$/imageboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageboard-grailsPlugins.iml" filepath="$PROJECT_DIR$/imageboard-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
